@@ -1,0 +1,14 @@
+[Interface]
+# Key for adblock
+# NetShield = 2
+# Moderate NAT = on
+# VPN Accelerator = on
+PrivateKey = WJMG+0/iU3YUvKoGFAiXbeJ5472ImGrKU/Ws5SpkpW8=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+
+[Peer]
+# NL#33
+PublicKey = V7KglYdRWed3SPDO8IZH/Ff/ci6E6DLVz5n+MfeYGiA=
+AllowedIPs = 0.0.0.0/1, 128.0.0.0/1
+Endpoint = 185.107.95.209:51820
